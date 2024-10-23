@@ -1,6 +1,6 @@
 ### 🔮GENERADOR DE BINES🔮
 
-######¿Qué Hace Este Script? El script esta diseñado para generar bines aleatorios funcionales y poder obtener una suscripción de una determinada plataforma,el uso de este script es responsabilidadde cada uno.
+###### ¿Qué Hace Este Script? El script esta diseñado para generar bines aleatorios funcionales y poder obtener una suscripción de una determinada plataforma,el uso de este script es responsabilidadde cada uno.
 
 ### 🔮 INSTALACION: 🔮
 
